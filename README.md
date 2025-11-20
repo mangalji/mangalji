@@ -7,7 +7,8 @@
 - 📫 You can reach me via my some social media profiles 👇
 - Instagram :https://www.instagram.com/raj_mangal_ji?igsh=MTA4eGJoM21tY2hyaA==
 - Email: rajmangal03@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rajmangal2001 
+- LinkedIn: https://www.linkedin.com/in/rajmangal2001
+- LeetCode Id: Mangal_ji_2001
 - 😄 Pronouns: whatever you want
 - ⚡ Fun fact: Not at all
 
