@@ -10,5 +10,5 @@
 - LinkedIn: https://www.linkedin.com/in/rajmangal2001
 - LeetCode Id: Mangal_ji_2001
 - 😄 Pronouns: whatever you want
-- ⚡ Fun fact: Not at all
+- ⚡ Fun fact: Crazy and Sincere personality 😄.
 
