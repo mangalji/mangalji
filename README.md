@@ -1,7 +1,7 @@
 # About me 👋
 
-- 🔭 I’m currently working on WebSockets based Django Project. 
-- 🌱 I’m currently learning Django and BackEnd things.
+- 🔭 I recently done WebSockets based Django Project and start another Django Project of Attendence Monitoring System. 
+- 🌱 I’m currently working on Django and BackEnd things.
 - 🤔 I’m looking for help to get the job.
 - 💬 You can ask me your some questions about me by sending me a email. 
 - 📫 You can reach me via my some social media profiles 👇
