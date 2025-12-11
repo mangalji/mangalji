@@ -8,6 +8,7 @@
 - Instagram :https://www.instagram.com/raj_mangal_ji?igsh=MTA4eGJoM21tY2hyaA==
 - Email: rajmangal03@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rajmangal2001
+- WellFound: https://wellfound.com/u/raj-mangal
 - LeetCode Id: Mangal_ji_2001
 - 😄 Pronouns: whatever you want
 - ⚡ Fun fact: Crazy and Sincere personality 😄.
