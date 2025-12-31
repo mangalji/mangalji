@@ -2,7 +2,7 @@
 
 - 🔭 I recently done WebSockets based Django Project and start another Django Project of Attendence Monitoring System. 
 - 🌱 I’m currently working on Django and BackEnd things.
-- 🤔 I’m looking for help to get the job.
+- 🤔 I’m looking for the job.
 - 💬 You can ask me your some questions about me by sending me a email to rajmangal03@gmail.com. 
 - 📫 You can reach me via my some social media profiles 👇
 - Instagram :https://www.instagram.com/raj_mangal_ji?igsh=MTA4eGJoM21tY2hyaA==
