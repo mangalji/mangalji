@@ -1,6 +1,6 @@
 # About me 👋
-
-- 🔭 I recently done WebSockets based Django Project and start another Django Project of Attendence Monitoring System(A real world student/employee imformation system for client). 
+- 📫 I recently complete the implementation of MFA(Multi Factor Authentication) in django and also in it's rest framework.
+- 🔭 I done WebSockets based Django Project and start another Django Project of Attendence Monitoring System(A real world student/employee imformation system for client). 
 - 🌱 I recently completed my learning phase of Django and BackEnd things.
 - Now i am learning and implementing the DRF for real world projects.
 - I successfully completed the implementation of OAuth and Multi Factor Authentication in projects.
