@@ -1,10 +1,5 @@
 # About me 👋
-- 📫 I recently complete the implementation of MFA(Multi Factor Authentication) in django and also in it's rest framework.
-- 🔭 I done WebSockets based Django Project and start another Django Project of Attendence Monitoring System(A real world student/employee imformation system for client). 
-- 🌱 I recently completed my learning phase of Django and BackEnd things.
-- Now i am learning and implementing the DRF for real world projects.
-- I successfully completed the implementation of OAuth and Multi Factor Authentication in projects.
-- 🤔 I’m looking for the job.
+Backend Developer at TechRitzy Pvt. Ltd. with 1 year of experience building scalable, production ready systems using Python. Designed and secured 40+ RESTful APIs with JWT, MFA, and OAuth 2.0. Integrated Redis to handle 10k+ concurrent requests and built real time features using WebSockets. Worked with FastAPI, Django, DRF, Flask, PostgreSQL, and SQLAlchemy. Set up CI/CD pipelines using GitHub Actions and handled AWS EC2 production deployments with Nginx and Gunicorn. Engineered automation scripts for end to end deployment workflows. Got practical exposure to Kafka, microservices architecture, and large scale data processing using Pandas. Comfortable working across the full backend lifecycle from database design to deployment.
 - 💬 You can ask me your some questions about me by sending me a email to rajmangal03@gmail.com. 
 - 📫 You can reach me via my some social media profiles 👇
 - Instagram :https://www.instagram.com/raj_mangal_ji?igsh=MTA4eGJoM21tY2hyaA==
