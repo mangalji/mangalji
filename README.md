@@ -10,4 +10,5 @@ currently learning System Design Architecture.
 - LeetCode Id: Mangal_ji_2001
 - 😄 Pronouns: whatever you want
 - ⚡ Fun fact: Crazy and Sincere personality 😄.
+- If you want to reach out me via phone you can by dialing +91 8827598493
 
