@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Raj Mangal 👋</h1>
 
 <p align="center">
-  <b>Backend Developer · NetSuite Technical Consultant</b><br/>
-  Indore, India · <a href="https://mangalji.github.io/Portfolio/">Portfolio</a> · <a href="mailto:rajmangal03@gmail.com">rajmangal03@gmail.com</a>
+  <b>Backend Developer</b><br/>
+  India · <a href="https://mangalji.github.io/Portfolio/">Portfolio</a> · <a href="mailto:rajmangal03@gmail.com">rajmangal03@gmail.com</a>
 </p>
 
 ---
@@ -14,10 +14,10 @@ I build multi-tenant SaaS backends with **Django REST Framework** and **PostgreS
 **Oracle NetSuite** (OAuth 2.0, REST Record API, SuiteQL, SuiteScript), and add **AI-powered document
 extraction** on top.
 
-- At TechRitzy Pvt. Ltd. I designed and secured **40+ RESTful APIs** with **JWT, MFA and OAuth 2.0**, cut API
+- I designed and secured **RESTful APIs** with **JWT, MFA and OAuth 2.0**, cut API
   response time by **40%** with **Redis** caching, and built real-time features with **WebSockets**.
 - I set up **CI/CD with GitHub Actions** and handled **AWS EC2** production deployments with **Nginx and Gunicorn**.
-- I have practical exposure to **Kafka**, microservices architecture, and data processing with **Pandas**.
+- I have practical exposure to **Celery**, microservices architecture, and data processing with **Pandas**.
 - Comfortable across the full backend lifecycle: database design, APIs, background jobs, security and deployment.
 
 **Currently building:** *AGSuite ERP*, a multi-tenant platform that extracts data from documents and emails with
@@ -38,7 +38,6 @@ AI, validates it against NetSuite and posts it as NetSuite records.
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
 
@@ -51,7 +50,7 @@ AI, validates it against NetSuite and posts it as NetSuite records.
 
 ### NetSuite & ERP Integration
 ![NetSuite](https://img.shields.io/badge/Oracle_NetSuite-F80000?style=flat&logo=oracle&logoColor=white)
-SuiteScript 2.x (Map/Reduce) · SuiteQL · NetSuite REST Record API · OAuth 2.0 (Authorization Code) ·
+SuiteScript 2.1 · SuiteQL · NetSuite REST Record API · OAuth 2.0 (Authorization Code) ·
 Advanced PDF / FreeMarker templates · Vendor Bill and transaction posting · Field mapping and validation
 
 ### AI & Automation
