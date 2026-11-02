@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Raj Mangal 👋</h1>
 
 <p align="center">
-  <b>Backend Developer</b><br/>
+  <b>Software Developer</b><br/>
   India · <a href="https://mangalji.github.io/Portfolio/">Portfolio</a> · <a href="mailto:rajmangal03@gmail.com">rajmangal03@gmail.com</a>
 </p>
 
@@ -9,16 +9,24 @@
 
 ## About me
 
-Backend Developer with 1+ year of experience building scalable, production-ready systems in **Python**.
-I build multi-tenant SaaS backends with **Django REST Framework** and **PostgreSQL**, integrate them with
-**Oracle NetSuite** (OAuth 2.0, REST Record API, SuiteQL, SuiteScript), and add **AI-powered document
-extraction** on top.
+Software Developer with 1+ year of experience building scalable, production-ready systems in **Python**.
+I build multi-tenant SaaS backends with **Django REST Framework** and **PostgreSQL**, build their **React**
+frontends, integrate them with **Oracle NetSuite** (OAuth 2.0, REST Record API, SuiteQL, SuiteScript), and add
+**AI-powered document extraction** on top.
 
-- I designed and secured **RESTful APIs** with **JWT, MFA and OAuth 2.0**, cut API
-  response time by **40%** with **Redis** caching, and built real-time features with **WebSockets**.
+- I designed and secured **RESTful APIs** with **JWT, MFA and SQL injection prevention** (**ORM**-parameterized queries, escaped SuiteQL inputs), implemented **OAuth 2.0**    for integration with **Google/GitHub** and with **NetSuite** for fetching data posting data.
+- I cut API response time by **40%** with **Redis** caching and built real-time features with **WebSockets**.
+- I run background work with **Celery workers** and schedule recurring jobs with **Celery Beat** (batch OCR and
+  NetSuite posting jobs, daily housekeeping, mailbox sync), with retries and crash recovery.
+- I built an **automated email-to-ERP pipeline**: scheduled **Gmail and Zoho Mail** sync, **AI** data extraction
+  from the email content, validation against NetSuite and automatic posting.
+- I design relational schemas with **database indexing** (composite and unique indexes), constraints and foreign
+  keys for fast queries and data integrity in **PostgreSQL**.
+- I build **React** (Vite, Tailwind CSS) frontends: role-based dashboards, review screens with live progress, and
+  dark mode.
 - I set up **CI/CD with GitHub Actions** and handled **AWS EC2** production deployments with **Nginx and Gunicorn**.
-- I have practical exposure to **Celery**, microservices architecture, and data processing with **Pandas**.
-- Comfortable across the full backend lifecycle: database design, APIs, background jobs, security and deployment.
+- I have practical exposure to microservices architecture and data processing with **Pandas**.
+- Comfortable across the full lifecycle: database design, APIs, frontend, background jobs, security and deployment.
 
 **Currently building:** *AGSuite ERP*, a multi-tenant platform that extracts data from documents and emails with
 AI, validates it against NetSuite and posts it as NetSuite records.
@@ -40,6 +48,7 @@ AI, validates it against NetSuite and posts it as NetSuite records.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
+Celery workers · Celery Beat (scheduled jobs) · Background job queues with retries · REST API design
 
 ### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -47,6 +56,7 @@ AI, validates it against NetSuite and posts it as NetSuite records.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+Database design · Indexing (composite and unique indexes) · Constraints and data integrity · Redis caching
 
 ### NetSuite & ERP Integration
 ![NetSuite](https://img.shields.io/badge/Oracle_NetSuite-F80000?style=flat&logo=oracle&logoColor=white)
@@ -58,8 +68,8 @@ Advanced PDF / FreeMarker templates · Vendor Bill and transaction posting · Fi
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-Prompt engineering · AI document extraction (PDF, image, Word, Excel, CSV) · Gmail and Zoho Mail API
-integration · Web scraping (Requests, BeautifulSoup)
+Prompt engineering · AI document extraction (PDF, image, Word, Excel, CSV) · Automated email-to-ERP pipeline
+(Gmail / Zoho Mail → AI extraction → NetSuite validation and posting) · Web scraping (Requests, BeautifulSoup)
 
 ### Security & Architecture
 JWT · Email OTP / MFA · OAuth 2.0 · Role-based access control (RBAC) · Multi-tenancy · Field-level encryption ·
@@ -72,6 +82,7 @@ API throttling · Background job processing with retries and crash recovery · M
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+React 19 · React Router · Axios · Role-based dashboards · Dark mode
 
 ### DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -93,7 +104,6 @@ Django TestCase / DRF APITestCase · pytest · unittest.mock · Git · GitHub ·
 - ✉️ Email: rajmangal03@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/rajmangal2001
 - 🧩 LeetCode: Mangal_ji_2001
-- 📸 Instagram: https://www.instagram.com/raj_mangal_ji
 - 📞 Phone: +91 8827598493
 
 ⚡ **Fun fact:** Crazy and Sincere personality 😄
